@@ -1,0 +1,1 @@
+import en from"./en.json";import fr from"./fr.json";export const dictionaryList={en:en,fr:fr};export const languageOptions={en:"en",fr:"fr"};
